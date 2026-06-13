@@ -28,4 +28,4 @@ Predicting % Silica impurity in iron ore concentrate using flotation plant proce
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Google Colab
 
 ## Author
-[Alan Raju](www.linkedin.com/in/alan-raju-09bb0040a/) | [GitHub](https://github.com/zom1xo)
+[GitHub](https://github.com/zom1xo)
